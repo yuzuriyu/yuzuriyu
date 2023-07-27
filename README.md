@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuzuriyu</h1>
+<h1 align="center">👋, I'm Yuzuriyu</h1>
 <h3 align="center">goal oriented, college student specializing on web development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"/>
 
