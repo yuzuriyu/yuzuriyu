@@ -1,4 +1,3 @@
-<img alt="Banner" width="100%" height="400px" object-fit="cover" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80"/>
 <h1 align="center">👋, I'm Yuzuriyu</h1>
 <h3 align="center">goal oriented, college student specializing on web development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif"/>
