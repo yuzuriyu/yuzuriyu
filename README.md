@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Yuzuriyu</h1>
+<h1 align="center">👋, I'm Cole Garcia</h1>
 <h3 align="center">goal oriented, college student specializing on web development</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlcmhpMWp2YjdxYmo2cjNxZDNpamhyYWN5d3U1bGJycGs5ZzZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7HnghedrxB5vC8/giphy.gif"/>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yuzuriyu" target="blank"><img src="https://img.shields.io/twitter/follow/yuzuriyu?logo=twitter&style=for-the-badge" alt="yuzuriyu" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects for learning**
+- 🔭 I’m currently working on an **E-commerce Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning ** more Javascript**
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
-- ⚡ Fun fact **BSIT pindot-pindot lang**
+- ⚡ Fun fact **Turns out programming is more than just pressing keys**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
