@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
-- ⚡ Fun fact **Turns out programming is more than just pressing keys**
+- ⚡ Fun fact **I self study everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
