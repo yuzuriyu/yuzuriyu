@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an **E-commerce Website**
 
-- 🌱 I’m currently learning ** more Javascript**
+- 🌱 I’m currently learning **Advance Javascript**
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
