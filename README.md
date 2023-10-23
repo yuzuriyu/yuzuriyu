@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/yuzuriyu" target="blank"><img src="https://img.shields.io/twitter/follow/yuzuriyu?logo=twitter&style=for-the-badge" alt="yuzuriyu" /></a> </p>
 
+- 🔭 I’m currently working on **Portfolio Projects**
+
 - 🌱 I’m currently learning **Frameworks/Libraries**
 
 - 📫 How to reach me **biz.ccole@gmail.com**
