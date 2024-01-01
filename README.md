@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carey Cole Garcia</h1>
+<h1 align="center">Hi 👋 Carey Cole Garcia</h1>
 <h3 align="center">Crafting Digital Experiences with Code</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlcmhpMWp2YjdxYmo2cjNxZDNpamhyYWN5d3U1bGJycGs5ZzZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7HnghedrxB5vC8/giphy.gif"/>
