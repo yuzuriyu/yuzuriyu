@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio Projects**
 
-- 🌱 I’m currently learning **NodeJS & ExpressJS**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
