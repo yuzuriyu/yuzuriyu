@@ -1,6 +1,6 @@
 <h1 align="center">👋 Carey Cole Garcia</h1>
 <h3 align="center">Crafting Digital Experiences with Code</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/187/187833.gif"/>
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/187/187842.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzuriyu&label=Profile%20views&color=0e75b6&style=flat" alt="yuzuriyu" /> </p>
 
