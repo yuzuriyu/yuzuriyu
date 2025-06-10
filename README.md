@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
-- ⚡ Fun fact **I'm a student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
