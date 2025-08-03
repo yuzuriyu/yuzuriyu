@@ -4,9 +4,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzuriyu&label=Profile%20views&color=0e75b6&style=flat" alt="yuzuriyu" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Projects**
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 📫 How to reach me **biz.ccole@gmail.com**
 
